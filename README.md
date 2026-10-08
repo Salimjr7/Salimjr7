@@ -44,7 +44,5 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salimjr7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Salim's GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salimjr7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
